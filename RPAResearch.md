@@ -39,7 +39,6 @@ At this stage, the development team or a separate QA/QC (quality assurance/quali
 When the team(s) involved in the testing stage are satisfied that the solution is robust and stable enough, it is deployed into production.
 7. **Monitoring & Change Management**  
 As with all software development, the last stage involves monitoring the solution for errors and to ensure it meets any defined performance targets as well as maintaining the bot to ensure any external changes from any dependencies does not affect the bot's ability to perform its tasks.
-<<<<<<< HEAD
 
 ## RPA Platforms
 ![RPA Contenders](https://i.imgur.com/LhPmKbz.png)
