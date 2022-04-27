@@ -25,3 +25,16 @@ When the team(s) involved in the testing stage are satisfied that the solution i
 As with all software development, the last stage involves monitoring the solution for errors and to ensure it meets any defined performance targets as well as maintaining the bot to ensure any external changes from any dependencies does not affect the bot's ability to perform its tasks.
 ## RPA Offerings
 ![RPA Contenders](https://i.imgur.com/LhPmKbz.png)
+
+# Current Leading Vendors
+![Research on Leading RPA Vendors](https://research.aimultiple.com/wp-content/webp-express/webp-images/uploads/2021/11/image-4.png.webp)
+### https://www.datamation.com/artificial-intelligence/top-15-robotic-process-automation-rpa-companies/
+## Not As Successful Vendors
+- Nintex: did not give fast enough response times
+- ElectroNeek: does not support bot rendering, too little insight for bot processes, does not offer enough information about the processes, and holds limited features.
+- Kofax RPA: needs better training documentation and improved OCR (optical character recognition)
+- NICE Robotic Process Automation: UI could be improved and development environment needs work
+- Perpetuuti: takes too long to deploy
+- Qruize: struggles to have accessibility to the customizable templates of this system, so it cannot adapt Qruize in its functions, to more personal scope projects
+
+
