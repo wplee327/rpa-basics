@@ -42,3 +42,17 @@ As with all software development, the last stage involves monitoring the solutio
 
 ## RPA Offerings
 ![RPA Contenders](https://i.imgur.com/LhPmKbz.png)
+## Top RPA Vendors
+
+1. **UiPath** 
+-Offers a platform that gives anyone in an organization the ability to build and use robots. Developers with more experience can use a rich development environment with Studio, while citizen developers can automate simple, day-to-day tasks for themselves and their team with StudioX. UiPath also enables users to test any of their processes with the platform’s Test Suite. Additionally, the vendor offers a range of ways for staff to engage with bots through Action Center, UiPath Assistant, and Chatbots. Users can also create and manage governance policies with Automation Ops.
+
+2. **Blue Prisim**
+-Offers a diverse product portfolio, including intelligent automation, robotic operating models, Blue Prism Cloud, automation lifecycle management, and a process assessment tool, among other devices. Blue Prism’s intelligent automation platform is available for on-prem, public cloud, hybrid, and multi-cloud environments, as well as SaaS deployments.
+
+3. **Automated Anywhere**
+-Offers cloud-native and web-based automation platform that combines RPA, artificial intelligence, machine learning, and analytics. The provider also offers its Bot Store, the first and largest marketplace with more than 1,200 pre-built, intelligent automation solutions. Automation 360 automates business processes across all systems and applications, including SaaS and legacy applications. 
+
+
+4. **NICE**
+-Offers process mining is included with the solution, NEVA. NEVA works side-by-side with employees from any location, guiding them through complex processes. This technology leverages Desktop Analytics and machine learning to accurately pinpoint which business processes should be automated.  NICE RPA also increases throughput capacity, enabling businesses to achieve ROI targets faster
