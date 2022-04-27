@@ -39,9 +39,12 @@ At this stage, the development team or a separate QA/QC (quality assurance/quali
 When the team(s) involved in the testing stage are satisfied that the solution is robust and stable enough, it is deployed into production.
 7. **Monitoring & Change Management**  
 As with all software development, the last stage involves monitoring the solution for errors and to ensure it meets any defined performance targets as well as maintaining the bot to ensure any external changes from any dependencies does not affect the bot's ability to perform its tasks.
+<<<<<<< HEAD
 
 ## RPA Platforms
 ![RPA Contenders](https://i.imgur.com/LhPmKbz.png)
+
+![Research on Leading RPA Vendors](https://research.aimultiple.com/wp-content/webp-express/webp-images/uploads/2021/11/image-4.png.webp)
 
 ### Top RPA Vendors
 1. **UiPath**   
@@ -52,3 +55,15 @@ Offers a diverse product portfolio, including intelligent automation, robotic op
 Offers cloud-native and web-based automation platform that combines RPA, artificial intelligence, machine learning, and analytics. The provider also offers its Bot Store, the first and largest marketplace with more than 1,200 pre-built, intelligent automation solutions. Automation 360 automates business processes across all systems and applications, including SaaS and legacy applications.
 4. **NICE RPA**  
 Offers process mining included with the solution, NEVA. NEVA works side-by-side with employees from any location, guiding them through complex processes. This technology leverages Desktop Analytics and machine learning to accurately pinpoint which business processes should be automated. NICE RPA also increases throughput capacity, enabling businesses to achieve ROI targets faster.
+
+### Not As Successful Vendors
+1. **Nintex**  
+This solution does not give fast enough response times.
+2. **ElectroNeek**  
+This solution does not support bot rendering, has too little insight for bot processes, does not offer enough information about the processes, and holds limited features.
+3. **Kofax RPA**  
+This solution needs better training documentation and improved OCR (optical character recognition).
+4. **Perpetuuiti**  
+This solution takes too long to deploy.
+5. **Qruize**  
+This solution struggles to have accessibility to the customizable templates of this system, so it cannot adapt its functions to more personal scope projects.
