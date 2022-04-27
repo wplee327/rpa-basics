@@ -5,8 +5,24 @@
         - Reduce time spent on simple and repetitive tasks to streamline workflow, increase productivity, and reduce overhead.
         - Prevent errors caused by human involvment, reducing time spent making corrections and improving compliance.
         - Allow workforce to focus on more complex and meaningful tasks.
+- To qualify for RPA, a process or task should fit the following basic rules:
+    - The process or task is rule-based.
+    - The process or task is repeated at regular intervals or have a pre-defined trigger.
+    - The process or task has defined inputs and outputs.
+    - The process or task has sufficient volume.
 
-![Common RPA Uses](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/06/Asset-8.png)
+![Common RPA Uses](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/06/Asset-8.png)  
+
+- Common use cases for RPA include:
+    - Data updates, validation, and migration
+    - Data extraction
+    - Report generation
+    - Scheduled diagnostics
+    - Software installation
+    - Automated testing
+    - Customer onboarding
+    - P&L (profit and loss) tracking and forecasting
+
 ## The RPA Life Cycle
 ![RPA Life Cycle](https://www.blueprintsys.com/hs-fs/hubfs/RPA-Lifecycle-Management-Blueprint.png?width=500&name=RPA-Lifecycle-Management-Blueprint.png)
 1. **RPA Candidate Identification**  
@@ -23,5 +39,6 @@ At this stage, the development team or a separate QA/QC (quality assurance/quali
 When the team(s) involved in the testing stage are satisfied that the solution is robust and stable enough, it is deployed into production.
 7. **Monitoring & Change Management**  
 As with all software development, the last stage involves monitoring the solution for errors and to ensure it meets any defined performance targets as well as maintaining the bot to ensure any external changes from any dependencies does not affect the bot's ability to perform its tasks.
+
 ## RPA Offerings
 ![RPA Contenders](https://i.imgur.com/LhPmKbz.png)
