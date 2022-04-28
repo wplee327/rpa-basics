@@ -66,3 +66,10 @@ This solution needs better training documentation and improved OCR (optical char
 This solution takes too long to deploy.
 5. **Qruize**  
 This solution struggles to have accessibility to the customizable templates of this system, so it cannot adapt its functions to more personal scope projects.
+
+# References
+- [https://www.edureka.co/blog/rpa-tutorial/](https://www.edureka.co/blog/rpa-tutorial/)
+- [https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management](https://www.blueprintsys.com/blog/rpa/rpa-lifecycle-management)
+- [https://www.g2.com/categories/robotic-process-automation-rpa](https://www.g2.com/categories/robotic-process-automation-rpa)
+- [https://www.uipath.com/resources/automation-analyst-reports/everest-group-peak-matrix-rpa](https://www.uipath.com/resources/automation-analyst-reports/everest-group-peak-matrix-rpa)
+- [https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain](https://enterprisersproject.com/article/2019/5/rpa-robotic-process-automation-how-explain)
