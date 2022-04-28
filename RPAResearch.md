@@ -7,7 +7,7 @@
         - Allow workforce to focus on more complex and meaningful tasks.
 - To qualify for RPA, a process or task should fit the following basic rules:
     - The process or task is rule-based.
-    - The process or task is repeated at regular intervals or have a pre-defined trigger.
+    - The process or task is repeated at regular intervals or has a pre-defined trigger.
     - The process or task has defined inputs and outputs.
     - The process or task has sufficient volume.
 
